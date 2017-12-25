@@ -1,0 +1,10 @@
+{
+    "name": "petcircle/aop",
+    "description": "Alipay SDK",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
